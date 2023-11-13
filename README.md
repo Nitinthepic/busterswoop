@@ -13,12 +13,12 @@ which is itself based on the fabulous [Ferris by Pierre Chevalier](https://githu
 
 ### Features
 
-⭕ Low profile Kailh Choc switches
-⭕ Hotswap
-⭕ Oled screens
-⭕ Power switch for battery management
-⭕ Bluetooth support w/ nice!nano
-⭕ 3D cased assembled with M2 screws
+⭕ Low profile Kailh Choc switches 
+⭕ Hotswap 
+⭕ Oled screens 
+⭕ Power switch for battery management 
+⭕ Bluetooth support w/ nice!nano 
+⭕ 3D cased assembled with M2 screws 
 
 ### Components list
 
