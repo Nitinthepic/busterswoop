@@ -3,7 +3,7 @@
 ![Fully assembled Busterswoop](images/full_build.jpeg)
 
 A WIP fork of [SuperFola's Arkenswoop](https://github.com/SuperFola/arkenswoop),
-which is a fork of[jimmerricks's Swoop](https://github.com/jimmerricks/swoop),
+which is a fork of [jimmerricks's Swoop](https://github.com/jimmerricks/swoop),
 which is a fork of [David Barr's Sweep](https://github.com/davidphilipbarr/Sweep),
 which is itself based on the fabulous [Ferris by Pierre Chevalier](https://github.com/pierrechevalier83/ferris).
 
