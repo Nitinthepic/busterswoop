@@ -1,6 +1,6 @@
 # Busterswoop
 
-![Fully assembled Busterswoop](images/full_build.jpeg)
+![Fully assembled Busterswoop](images/busterswoop_finished.png)
 
 A WIP fork of [SuperFola's Arkenswoop](https://github.com/SuperFola/arkenswoop),
 which is a fork of [jimmerricks's Swoop](https://github.com/jimmerricks/swoop),
@@ -9,7 +9,7 @@ which is itself based on the fabulous [Ferris by Pierre Chevalier](https://githu
 
 | Front | Back |
 | :---: | :---: |
-| ![front](/images/exports/arkenswoop/front.png) | ![back](/images/exports/arkenswoop/back.png) |
+| ![front](/images/front.png) | ![back](/images/back.png) |
 
 ### Features
 
@@ -39,14 +39,3 @@ To build and use an Busterswoop you will need:
 * 1× TRRS (not TRS!) cable (wired only)
 * 2× TRRS Jack [PJ-320A] (wired only)
 * 1× USB Cable 
-
-## Images
-
-<details>
-    <summary>Assembled Arkenswoop 0.6.0</summary>
-    <img src="images/full_build.jpeg">
-</details>
-<details>
-    <summary>Back of assembled Arkenswoop 0.6.0</summary>
-    <img src="images/full_build_back.jpeg">
-</details>
