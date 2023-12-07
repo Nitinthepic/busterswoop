@@ -25,20 +25,20 @@ which is itself based on the fabulous [Ferris by Pierre Chevalier](https://githu
 To build and use an Busterswoop you will need:
 
 * 1× PCB Kit (1.6mm thickness when ordering)
-* 1× back plate kit (optional, 1.2mm thickness when ordering)
 * 2× promicro compatible boards or 2 nice!nanos.
 * 36× Kailh Choc v1 switches
 * 36× Kailh Choc hotswap sockets (PG1350)
 * 36× keycaps
-* 2× side-scrolling encoders EVQWGD001
-* 2× OLED LCD Display 128x32 SSD1306 (optional)
+* 1-2× OLED LCD Display 128x32 SSD1306 (optional)
+* 1-2x Female 4-Pin Headers (optional)
+* 4 or 8x Male Header Pins (optional)
 * 2× reset switches (optional; B3U-1000P(M))
 * Some little rubber feet/bumpers (minimum of 4 on each side)
 * 2× power switches (wireless only; MSK 12C02)
 * 2× lipo batteries (wireless only; 301230 or 301228)
 * 1× TRRS (not TRS!) cable (wired only)
 * 2× TRRS Jack [PJ-320A] (wired only)
-* 1× USB Cable (depends on your micro-controller choice)
+* 1× USB Cable 
 
 ## Images
 
